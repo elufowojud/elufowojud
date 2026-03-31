@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Final-Year CS Student | Full-Stack Developer | AI & Data Enthusiast
 -------------------------------------------------------------------
 
-I build full-stack apps, fine-tune AI models, and work with data pipelines. Former data analyst intern at Wise. Looking for remote roles at high-velocity startups where I can ship real code.
+CS student at Coventry University who left an architecture degree to build software. I build full-stack apps, fine-tune AI models, and work with data pipelines. Former data analyst intern at Wise. Looking for remote roles at high-velocity startups where I can ship real code.
 
 * 🌍  I'm based in Birmingham, UK
 * ✉️  You can contact me at [davfowoju@gmail.com](mailto:davfowoju@gmail.com)
@@ -18,3 +18,10 @@ I build full-stack apps, fine-tune AI models, and work with data pipelines. Form
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/elufowojud" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/david-elufowoju-bab556344/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://elufowojud.github.io/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" alt="RSS" title="RSS" /> </picture> </a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/elufowojud"><img src="https://github-readme-stats.vercel.app/api?username=elufowojud&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="elufowojud's GitHub stats" /></a>
+
+<a href="https://github.com/elufowojud" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elufowojud&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
