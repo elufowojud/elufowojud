@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Final-Year CS Student | Full-Stack Developer | AI & Data Enthusiast
 -------------------------------------------------------------------
 
-CS student at Coventry University who left an architecture degree to build software. I build full-stack apps, fine-tune AI models, and work with data pipelines. Former data analyst intern at Wise. Looking for remote roles at high-velocity startups where I can ship real code.
+I build full-stack apps, fine-tune AI models, and work with data pipelines. Former data analyst intern at Wise. Looking for remote roles at high-velocity startups where I can ship real code.
 
 * 🌍  I'm based in Birmingham, UK
 * ✉️  You can contact me at [davfowoju@gmail.com](mailto:davfowoju@gmail.com)
